@@ -16,4 +16,4 @@ while n>0:
                 print("niski mandat")
         else:
                 print("Wysoki mandat")
-    n -=1
+    n -=1ź
